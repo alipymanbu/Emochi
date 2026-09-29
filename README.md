@@ -1,75 +1,25 @@
-# Welcome to OnSpace AI
+# emochi
 
-Onspace AI empowers anyone to turn ideas into powerful AI applications in minutes—no coding required. Our free, no-code platform enables effortless creation of custom AI apps; simply describe your vision and our agentic AI handles the rest. The onspace-app, built with React Native and Expo, demonstrates this capability—integrating popular third-party libraries to deliver seamless cross-platform performance across iOS, Android, and Web environments.
+本仓库是「emochi」的安卓版本获取入口，附使用资料索引。
 
-## Getting Started
+## 安装文件资源（夸克网盘）
 
-### 1. Install Dependencies
+> **emochi 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c1af75554f85](https://pan.quark.cn/s/c1af75554f85)
 
-```bash
-npm install
-# or
-yarn install
-```
+## 官方项目
 
-### 2. Start the Project
+- 上游项目：[MILOUDAKDI/Emochi](https://github.com/MILOUDAKDI/Emochi)
 
-- Start the development server (choose your platform):
+## 更多资料
 
-```bash
-npm run start         # Start Expo development server
-npm run android       # Launch Android emulator
-npm run ios           # Launch iOS simulator
-npm run web           # Start the web version
-```
-
-- Reset the project (clear cache, etc.):
-
-```bash
-npm run reset-project
-```
-
-### 3. Lint the Code
-
-```bash
-npm run lint
-```
-
-## Main Dependencies
-
-- React Native: 0.79.4
-- React: 19.0.0
-- Expo: ~53.0.12
-- Expo Router: ~5.1.0
-- Supabase: ^2.50.0
-- Other commonly used libraries:  
-  - @expo/vector-icons  
-  - react-native-paper  
-  - react-native-calendars  
-  - lottie-react-native  
-  - react-native-webview  
-  - and more
-
-For a full list of dependencies, see [package.json](./package.json).
-
-## Development Tools
-
-- TypeScript: ~5.8.3
-- ESLint: ^9.25.0
-- @babel/core: ^7.25.2
-
-## Contributing
-
-1. Fork this repository
-2. Create a new branch (`git checkout -b main`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is private ("private": true). For collaboration inquiries, please contact the author.
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/emochi/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [常见问题与闪退排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/emochi/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E9%97%AA%E9%80%80%E6%8E%92%E6%9F%A5.md)
+- [怎么创建自己的角色](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/emochi/%E6%80%8E%E4%B9%88%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%92%E8%89%B2.md)
+- [注销账号与删除数据](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/emochi/%E6%B3%A8%E9%94%80%E8%B4%A6%E5%8F%B7%E4%B8%8E%E5%88%A0%E9%99%A4%E6%95%B0%E6%8D%AE.md)
+- [订阅价格与Mochi积分](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/emochi/%E8%AE%A2%E9%98%85%E4%BB%B7%E6%A0%BC%E4%B8%8EMochi%E7%A7%AF%E5%88%86.md)
+- [账号登录与注册方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/emochi/%E8%B4%A6%E5%8F%B7%E7%99%BB%E5%BD%95%E4%B8%8E%E6%B3%A8%E5%86%8C%E6%96%B9%E6%B3%95.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
 ---
 
-Feel free to add project screenshots, API documentation, feature descriptions, or any other information as needed.
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/MILOUDAKDI/Emochi)。
